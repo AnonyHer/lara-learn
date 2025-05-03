@@ -66,7 +66,7 @@
                                 </div>
                             </div>
                             <button type="submit" class="btn btn-md btn-primary me-3">UPDATE</button>
-                            <a href="{{ route('crud.index') }}" class="btn btn-md btn-info">BACK</a>
+                            <a href="{{ route('crud.index') }}" class="btn btn-md btn-info">BACK TO DASHBOARD</a>
                         </form>
                     </div>
                 </div>
